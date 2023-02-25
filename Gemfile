@@ -65,3 +65,7 @@ end
 gem "react_on_rails", "= 13.3"
 
 gem "shakapacker", "= 6.5"
+
+gem "foreman", "~> 0.87.2"
+
+gem "pry", "~> 0.14.2"
