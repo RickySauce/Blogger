@@ -69,3 +69,5 @@ gem "shakapacker", "= 6.5"
 gem "foreman", "~> 0.87.2"
 
 gem "pry", "~> 0.14.2"
+
+gem "rake", "~> 13.0"
