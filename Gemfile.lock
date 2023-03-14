@@ -231,6 +231,7 @@ DEPENDENCIES
   pry (~> 0.14.2)
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.2)
+  rake (~> 13.0)
   react_on_rails (= 13.3)
   selenium-webdriver
   shakapacker (= 6.5)
