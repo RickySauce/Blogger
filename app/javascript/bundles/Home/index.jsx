@@ -10,7 +10,8 @@ const AppBar = (props) => (
    />
   )
 
-const Home = () => {
+const Home = ({posts}) => {
+  console.log(posts)
   return(
     <Grommet full>
       <AppBar>
